@@ -1,0 +1,47 @@
+body
+{
+    background: #cfcece;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color:red;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border:1px solid rgb(87, 2, 2);
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
